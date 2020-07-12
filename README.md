@@ -4,7 +4,7 @@
 
 Package website: **http://j-mip.com**
 
-J-MIP is an alias for the [Kotlin-MIP](https://github.com/tuliotoffolo/kotlin-mip) package, with one important difference: **all documentation and examples are written using Java code**.
+J-MIP is an alias for the [Kotlin-MIP](https://github.com/tuliotoffolo/kotlin-mip) package, with one important difference: **all documentation and examples here are written using Java code**.
 
 J-MIP (or Kotlin-MIP) is a collection of Java/Kotlin tools for the modeling and solution of Mixed-Integer Linear programs (MIPs). 
 The entire package is inspired by [Python-MIP](https://github.com/coin-or/python-mip), which was also developed by us.
